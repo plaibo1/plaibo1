@@ -7,7 +7,6 @@
 
 - 📄 Know about my experiences [https://resume-ia9n.vercel.app/](https://resume-ia9n.vercel.app/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
