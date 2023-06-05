@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilya Lyskov</h1>
-<h3 align="center">junior frontend developer</h3>
+<h3 align="center">middle frontend developer</h3>
 
 - 👨‍💻 Portfolio [https://ilya-lyskov-portfolio.vercel.app/](https://ilya-lyskov-portfolio.vercel.app/)
 
