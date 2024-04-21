@@ -3,9 +3,9 @@
 
 - 👨‍💻 Portfolio [https://ilya-lyskov-portfolio.vercel.app/](https://ilya-lyskov-portfolio.vercel.app/)
 
-- 📫 How to reach me **https://t.me/playbo1**
+- 📫 How to reach me **[https://t.me/playbo1](https://t.me/playbo1)**
 
-- 📄 Know about my experiences [https://resume-ia9n.vercel.app/](https://resume-ia9n.vercel.app/)
+- 📄 Know about my experiences [https://ilya-lyskov-portfolio.vercel.app/resume](https://ilya-lyskov-portfolio.vercel.app/resume)
 
 <p align="left">
 </p>
